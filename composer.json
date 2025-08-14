@@ -1,0 +1,11 @@
+{
+    "name": "khudn/inventory",
+    "autoload": {
+        "psr-4": {
+            "Khudn\\Inventory\\": "src/"
+        }
+    },
+    "require": {
+        "phpoffice/phpspreadsheet": "^4.2"
+    }
+}
